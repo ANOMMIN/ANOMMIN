@@ -1,5 +1,5 @@
-I’m @ANOMMIN
-Love me, or not 😔.
+I’m @ANOMMIN,
+love me, or not 😔.
 
 <!---
 ANOMMIN/ANOMMIN is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
